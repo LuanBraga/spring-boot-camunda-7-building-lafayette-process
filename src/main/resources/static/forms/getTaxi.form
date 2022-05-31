@@ -12,7 +12,7 @@
       }
     },
     {
-      "key": "county",
+      "key": "country",
       "label": "Where are you headed?",
       "type": "textfield",
       "description": "Country you are going to",
